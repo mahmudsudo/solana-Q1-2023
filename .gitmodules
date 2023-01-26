@@ -1,4 +1,0 @@
-[submodule "solana--escrow"]
-	path = solana--escrow
-	url = https://github.com/mahmudsudo/solana--escrow.git
-
